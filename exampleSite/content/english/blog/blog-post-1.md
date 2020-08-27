@@ -27,9 +27,10 @@ Finansieringen er regulert i en egen forskrift med hjemmel i folketrygdloven § 
 [Forskrift om kompetansekrav for leger i den kommunale helse- og omsorgstjenesten (lovdata.no)](https://lovdata.no/dokument/SF/forskrift/2017-02-17-192)
 
 [Legeavtaler (ks.no):](https://www.ks.no/fagomrader/lonn-og-tariff/legeavtaler/)
-    * [Rammeavtalen mellom KS og Legeforeningen om allmennpraksis i fastlegeordningen (ASA 4310) (ks.no)](https://www.ks.no/fagomrader/lonn-og-tariff/legeavtaler/rammeavtalen-asa-43102/)
-    * [Kommunelegeavtalen (SFS 2305) (ks.no)](https://www.ks.no/fagomrader/lonn-og-tariff/legeavtaler/enighet-med-legeforeningen-om-kommunelegeavtalen/)
-    * [Statsavtalen (Normaltariffen) (legeforeningen.no)](https://beta.legeforeningen.no/jus-og-arbeidsliv/avtaler/Normaltariffen/)
+
++ [Rammeavtalen mellom KS og Legeforeningen om allmennpraksis i fastlegeordningen (ASA 4310) (ks.no)](https://www.ks.no/fagomrader/lonn-og-tariff/legeavtaler/rammeavtalen-asa-43102/)
++ [Kommunelegeavtalen (SFS 2305) (ks.no)](https://www.ks.no/fagomrader/lonn-og-tariff/legeavtaler/enighet-med-legeforeningen-om-kommunelegeavtalen/)
++ [Statsavtalen (Normaltariffen) (legeforeningen.no)](https://beta.legeforeningen.no/jus-og-arbeidsliv/avtaler/Normaltariffen/)
 
 
 #### 1914 translation by H. Rackham
