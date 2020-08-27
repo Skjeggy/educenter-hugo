@@ -1,5 +1,5 @@
 ---
-title: "Elegant Light Box Paper Cut Dioramas"
+title: "Styrende dokument"
 date: 2019-07-06T15:27:17+06:00
 draft: false
 # page title background image
@@ -17,9 +17,19 @@ tags: ["Advice", "Automation"]
 type: "post"
 ---
 
-### The standard Lorem Ipsum passage, used since the 1500s
+### Fastlegeordning er regulert på flere nivåer i lov, forskrift, sentrale avtaler og individuelle avtaler.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+Finansieringen er regulert i en egen forskrift med hjemmel i folketrygdloven § 5-4. Takstene i forskriften endres årlig på bakgrunn av forhandlinger mellom Legeforeningen og staten/KS. Det er takstene i denne forskriften som kalles Normaltariffen. Det inngås også en egen avtale på bakgrunn av disse forhandlingene kalt Statsavtalen. Det er her basistilskuddet reguleres.
+
+([Helse- og omsorgstjenesteloven (lovdata.no)](https://www.google.com))
+([Fastlegeforskriften (lovdata.no)](https://lovdata.no/dokument/SF/forskrift/2012-08-29-842))
+
+([Forskrift om kompetansekrav for leger i den kommunale helse- og omsorgstjenesten (lovdata.no)](https://lovdata.no/dokument/SF/forskrift/2017-02-17-192))
+
+([Legeavtaler (ks.no):](https://www.ks.no/fagomrader/lonn-og-tariff/legeavtaler/))
+    - ([Rammeavtalen mellom KS og Legeforeningen om allmennpraksis i fastlegeordningen (ASA 4310) (ks.no)](https://www.ks.no/fagomrader/lonn-og-tariff/legeavtaler/rammeavtalen-asa-43102/))
+    - ([Kommunelegeavtalen (SFS 2305) (ks.no)](https://www.ks.no/fagomrader/lonn-og-tariff/legeavtaler/enighet-med-legeforeningen-om-kommunelegeavtalen/))
+    - ([Statsavtalen (Normaltariffen) (legeforeningen.no)](https://beta.legeforeningen.no/jus-og-arbeidsliv/avtaler/Normaltariffen/))
 
 
 #### 1914 translation by H. Rackham
