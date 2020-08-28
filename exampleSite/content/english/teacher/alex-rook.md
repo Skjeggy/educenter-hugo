@@ -1,5 +1,5 @@
 ---
-title: "Alex Rook"
+title: "Elin G Bredal Solheim"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
@@ -26,12 +26,12 @@ contact:
     link : "tel:+120345876"
 
   # contact item loop
-  - name : "Clark Malik"
+  - name : "Elin G Bredal Solheim"
     icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
     link : "#"
 
   # contact item loop
-  - name : "Clark Malik"
+  - name : "Elin G Bredal Solheim"
     icon : "ti-twitter-alt" # icon pack : https://themify.me/themify-icons
     link : "#"
 
