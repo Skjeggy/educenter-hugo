@@ -112,7 +112,7 @@ success_story:
 ############################# event ################################
 event:
   enable : true
-  title : "Upcoming Events"
+  title : "Arrangementer"
   # event item comes from "content/**/event" folder.
 
   
