@@ -120,7 +120,7 @@ URL = "event"
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.jpg"
+logo = "images/logo.png"
 # Meta data
 description = "This is meta description"
 author = "Themefisher"
