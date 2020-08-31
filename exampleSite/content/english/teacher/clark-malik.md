@@ -1,5 +1,5 @@
 ---
-title: "Clark Malik"
+title: "Guro Grimstad Strandberg"
 draft: false
 # page title background image
 bg_image: "images/backgrounds/page-title.jpg"
@@ -26,17 +26,17 @@ contact:
     link : "tel:+120345876"
 
   # contact item loop
-  - name : "Clark Malik"
+  - name : "Guro Grimstad Strandberg"
     icon : "ti-facebook" # icon pack : https://themify.me/themify-icons
     link : "#"
 
   # contact item loop
-  - name : "Clark Malik"
+  - name : "Guro Grimstad Strandberg"
     icon : "ti-twitter-alt" # icon pack : https://themify.me/themify-icons
     link : "#"
 
   # contact item loop
-  - name : "Clark Malik"
+  - name : "Guro Grimstad Strandberg"
     icon : "ti-skype" # icon pack : https://themify.me/themify-icons
     link : "#"
 
