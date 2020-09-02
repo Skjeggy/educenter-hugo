@@ -66,12 +66,12 @@ hasChildren = true
 
   [[menu.main]]
   parent = "Pages"
-  name = "notice"
+  name = "Viktige ressurser"
   URL = "notice"
 
   [[menu.main]]
   parent = "Pages"
-  name = "event"
+  name = "Arrengementer"
   URL = "event"
 
   # [[menu.main]]
@@ -85,9 +85,9 @@ hasChildren = true
   # URL = "research"
   
 [[menu.main]]
-name = "blog"
-URL = "blog"
-weight = 4
+# name = "blog"
+# URL = "blog"
+# weight = 4
   
 [[menu.main]]
 name = "Kontakt oss"
@@ -102,11 +102,11 @@ name = "Ansatte"
 URL = "teacher"
 
 [[menu.footer]]
-name = "notice"
+name = "Viktige ressurser"
 URL = "notice"
 
 [[menu.footer]]
-name = "event"
+name = "Arrangementer"
 URL = "event"
 
 # [[menu.footer]]
