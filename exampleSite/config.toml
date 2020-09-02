@@ -60,31 +60,31 @@ name = "Mer"
 hasChildren = true
 
   [[menu.main]]
-  parent = "Pages"
+  parent = "Mer"
   name = "Ansatte"
   URL = "teacher"
 
   [[menu.main]]
-  parent = "Pages"
+  parent = "Mer"
   name = "Viktige ressurser"
   URL = "notice"
 
   [[menu.main]]
-  parent = "Pages"
+  parent = "Mer"
   name = "Arrengementer"
   URL = "event"
 
   # [[menu.main]]
-  # parent = "Pages"
+  # parent = "Mer"
   # name = "scholarship"
   # URL = "scholarship"
 
   # [[menu.main]]
-  # parent = "Pages"
+  # parent = "Mer"
   # name = "research"
   # URL = "research"
   
-[[menu.main]]
+# [[menu.main]]
 # name = "blog"
 # URL = "blog"
 # weight = 4
