@@ -59,7 +59,7 @@
   translation: Pris
 
 - id: teacher
-  translation: teacher
+  translation: Ansatt
 
 - id: location
   translation: sted
@@ -68,7 +68,7 @@
   translation: Pris
 
 - id: event_speaker
-  translation: Event Speakers
+  translation: Foreleser
 
 - id: more_event
   translation: Flere arrangementer
@@ -83,7 +83,7 @@
   translation: ALIS Sør
 
 - id: links
-  translation: links
+  translation: lenker
 
 - id: courses
   translation: Kurs
