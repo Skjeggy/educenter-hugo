@@ -11,7 +11,7 @@ image: "images/courses/course-5.jpg"
 # taxonomy
 category: "Programming"
 # teacher
-teacher: "Zim Cook"
+teacher: "Rolf Jarnes"
 # duration
 duration: "06 mois"
 # weekly
