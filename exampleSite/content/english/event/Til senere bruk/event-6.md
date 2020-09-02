@@ -13,7 +13,7 @@ description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do 
 # Event image
 image: "images/events/event-2.jpg"
 # location
-location: "Dhanmondi, Dhaka"
+location: "Rådhuskvartalet, Kristiansand"
 # entry fee
 fee: "From: $699"
 # apply url
