@@ -8,12 +8,12 @@ description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do 
 ---
 
 
-# Nyttige lenker
+## Nyttige lenker
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.
 
-## LIS 1 
+### LIS 1 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.
 
 
-## LIS 3
+### LIS 3
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud.
