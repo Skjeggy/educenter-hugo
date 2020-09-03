@@ -147,3 +147,8 @@ blog:
   # blog item comes from "content/**/blog" folder.
 
 
+############################# lenker ##############################
+lenker: 
+  enable : true
+  title : "Nyttige lenker"
+  # lenker har egen mappe
