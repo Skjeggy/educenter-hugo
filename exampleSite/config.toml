@@ -55,6 +55,11 @@ weight = 1
 # weight = 2
 
 [[menu.main]]
+name = "Nyttige lenker"
+URL = "lenker"
+weight = 2
+
+[[menu.main]]
 weight = 3
 name = "Mer"
 hasChildren = true
